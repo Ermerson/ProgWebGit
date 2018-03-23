@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceDesk201508392</string>
+    <string name="busca_fila">Fila Solucionadora</string>
+    <string name="botao_busca">Buscar</string>
+</resources>
